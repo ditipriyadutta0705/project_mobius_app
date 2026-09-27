@@ -1,0 +1,35 @@
+# Node.js & Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Project Mobius local run artifacts
+*.tmp

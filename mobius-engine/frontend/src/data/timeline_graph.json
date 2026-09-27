@@ -1,0 +1,4883 @@
+{
+  "nodes": [
+    {
+      "id": "ROOT_AVENGERS_FACILITY_2023",
+      "type": "mobiusNode",
+      "position": {
+        "x": 100,
+        "y": 350.0
+      },
+      "data": {
+        "node_id": "ROOT_AVENGERS_FACILITY_2023",
+        "parent_id": null,
+        "depth": 0,
+        "title": "Avengers Compound: Quantum Tunnel Insertion",
+        "narrative_summary": "Avengers Compound, Upstate New York (October 2023). Quantum Tunnel is calibrated. Fourteen non-renewable Pym particle doses distributed across three operational strike teams. Simultaneous jumps executed to New York (2012), Asgard (2013), and Morag/Vormir (2014).",
+        "divergence_trigger": null,
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.0,
+        "tva_entropy_index": 0.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Avengers Compound: Quantum Tunnel Insertion. Divergence Event: Baseline insertion. Avengers Compound, Upstate New York (October 2023). Quantum Tunnel is calibrated. Fourteen non-renewable Pym particle do... Visual Tone: Opulent Asgardian gold halls, glowing crimson Aether tendrils, deep indigo shadow accents. Camera Dynamics: Fluid handheld steadicam gliding through royal palace arches, whip pans on royal guards. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/compound_2023.jpg",
+        "visit_count": 211,
+        "total_value": 146.5,
+        "victory_probability": 0.694,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.12)",
+          "glow": "0 0 12px rgba(0, 240, 255, 0.4)",
+          "badge": "QUANTUM INSERTION"
+        }
+      }
+    },
+    {
+      "id": "ANCHOR_NY_2012",
+      "type": "mobiusNode",
+      "position": {
+        "x": 580,
+        "y": -55.0
+      },
+      "data": {
+        "node_id": "ANCHOR_NY_2012",
+        "parent_id": "ROOT_AVENGERS_FACILITY_2023",
+        "depth": 1,
+        "title": "Anchor: New York (May 4, 2012)",
+        "narrative_summary": "Stark Tower and Sanctum Sanctorum. Team NY deploys to secure the Space Stone (Tesseract), Mind Stone (Chitauri Scepter), and Time Stone (Eye of Agamotto) amidst the Chitauri invasion aftermath.",
+        "divergence_trigger": "Canonical Infiltration Commenced",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.05,
+        "tva_entropy_index": 5.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Anchor: New York (May 4, 2012). Divergence Event: Canonical Infiltration Commenced. Stark Tower and Sanctum Sanctorum. Team NY deploys to secure the Space Stone (Tesseract), Mind Stone (Chitauri Scepter),... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_2012.jpg",
+        "visit_count": 60,
+        "total_value": 58.0,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.12)",
+          "glow": "0 0 12px rgba(0, 240, 255, 0.4)",
+          "badge": "CANONICAL ANCHOR"
+        }
+      }
+    },
+    {
+      "id": "ANCHOR_ASGARD_2013",
+      "type": "mobiusNode",
+      "position": {
+        "x": 580,
+        "y": 215.0
+      },
+      "data": {
+        "node_id": "ANCHOR_ASGARD_2013",
+        "parent_id": "ROOT_AVENGERS_FACILITY_2023",
+        "depth": 1,
+        "title": "Anchor: Asgard (November 2013)",
+        "narrative_summary": "Royal Palace of Asgard during the Dark Elf invasion. Thor and Rocket infiltrate the royal chambers to extract the Reality Stone (Aether) from Jane Foster.",
+        "divergence_trigger": "Canonical Infiltration Commenced",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.02,
+        "tva_entropy_index": 4.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Anchor: Asgard (November 2013). Divergence Event: Canonical Infiltration Commenced. Royal Palace of Asgard during the Dark Elf invasion. Thor and Rocket infiltrate the royal chambers to extract the Realit... Visual Tone: Opulent Asgardian gold halls, glowing crimson Aether tendrils, deep indigo shadow accents. Camera Dynamics: Fluid handheld steadicam gliding through royal palace arches, whip pans on royal guards. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 45,
+        "total_value": 43.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.12)",
+          "glow": "0 0 12px rgba(0, 240, 255, 0.4)",
+          "badge": "CANONICAL ANCHOR"
+        }
+      }
+    },
+    {
+      "id": "ANCHOR_MORAG_2014",
+      "type": "mobiusNode",
+      "position": {
+        "x": 580,
+        "y": 485.0
+      },
+      "data": {
+        "node_id": "ANCHOR_MORAG_2014",
+        "parent_id": "ROOT_AVENGERS_FACILITY_2023",
+        "depth": 1,
+        "title": "Anchor: Morag (2014)",
+        "narrative_summary": "Submerged Temple of the Power Stone. War Machine and Nebula land on the geyser plains to intercept Peter Quill and extract the Power Stone (Orb) before Ronan arrives.",
+        "divergence_trigger": "Canonical Infiltration Commenced",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 8.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Anchor: Morag (2014). Divergence Event: Canonical Infiltration Commenced. Submerged Temple of the Power Stone. War Machine and Nebula land on the geyser plains to intercept Peter Quill and extra... Visual Tone: Desolate aqua rainstorms, eerie violet Power Stone luminescence, reflective wet obsidian ruins. Camera Dynamics: Atmospheric dolly push across misty geyser plains focusing on temple vault doors. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 45,
+        "total_value": 15.0,
+        "victory_probability": 0.333,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.12)",
+          "glow": "0 0 12px rgba(0, 240, 255, 0.4)",
+          "badge": "CANONICAL ANCHOR"
+        }
+      }
+    },
+    {
+      "id": "ANCHOR_VORMIR_2014",
+      "type": "mobiusNode",
+      "position": {
+        "x": 580,
+        "y": 755.0
+      },
+      "data": {
+        "node_id": "ANCHOR_VORMIR_2014",
+        "parent_id": "ROOT_AVENGERS_FACILITY_2023",
+        "depth": 1,
+        "title": "Anchor: Vormir (2014)",
+        "narrative_summary": "Desolate peak of Vormir. Clint Barton and Natasha Romanoff ascend the mountain to locate the Soul Stone, meeting the Stonekeeper at the summit.",
+        "divergence_trigger": "Canonical Infiltration Commenced",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.05,
+        "tva_entropy_index": 6.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Anchor: Vormir (2014). Divergence Event: Canonical Infiltration Commenced. Desolate peak of Vormir. Clint Barton and Natasha Romanoff ascend the mountain to locate the Soul Stone, meeting the Sto... Visual Tone: Somber eclipse violet, brooding cloud ceiling, radiant amber Soul realm horizon. Camera Dynamics: High-altitude vertiginous top-down crane looking down sheer cliff face into the cosmic vortex. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_2014.jpg",
+        "visit_count": 60,
+        "total_value": 29.5,
+        "victory_probability": 0.492,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.12)",
+          "glow": "0 0 12px rgba(0, 240, 255, 0.4)",
+          "badge": "CANONICAL ANCHOR"
+        }
+      }
+    },
+    {
+      "id": "NY_TESSERACT_DROP",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -1405.0
+      },
+      "data": {
+        "node_id": "NY_TESSERACT_DROP",
+        "parent_id": "ANCHOR_NY_2012",
+        "depth": 2,
+        "title": "Tesseract Briefcase Rupture",
+        "narrative_summary": "Tony Stark drops the Tesseract briefcase when 2012 Hulk smashes through the stairwell doors. The briefcase pops open and slides across the marble lobby towards Loki.",
+        "divergence_trigger": "Hulk Stairwell Impact / Briefcase Dropped",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 35.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Tesseract Briefcase Rupture. Divergence Event: Hulk Stairwell Impact / Briefcase Dropped. Tony Stark drops the Tesseract briefcase when 2012 Hulk smashes through the stairwell doors. The briefcase pops open and... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_2012.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_ELEVATOR_BLUFF_FAIL",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -1135.0
+      },
+      "data": {
+        "node_id": "NY_ELEVATOR_BLUFF_FAIL",
+        "parent_id": "ANCHOR_NY_2012",
+        "depth": 2,
+        "title": "Hydra Elevator Compromise",
+        "narrative_summary": "Jasper Sitwell and Brock Rumlow detect subtle cadence flaws in Captain America's 'Hail Hydra' whisper. Strike team draws taser batons inside the elevator shaft.",
+        "divergence_trigger": "Elevator Whisper Bluff Failed",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.07,
+        "tva_entropy_index": 25.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Hydra Elevator Compromise. Divergence Event: Elevator Whisper Bluff Failed. Jasper Sitwell and Brock Rumlow detect subtle cadence flaws in Captain America's 'Hail Hydra' whisper. Strike team draws... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_elevator_brawl.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_CAP_MIRROR_LOSS",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -865.0
+      },
+      "data": {
+        "node_id": "NY_CAP_MIRROR_LOSS",
+        "parent_id": "ANCHOR_NY_2012",
+        "depth": 2,
+        "title": "2012 Cap Mirror Match Defeat",
+        "narrative_summary": "2012 Captain America pins 2023 Steve Rogers to the glass walkway in a sleeper chokehold after suspecting Loki's shapeshifting illusions.",
+        "divergence_trigger": "Mirror Match Combat Defeat",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.08,
+        "tva_entropy_index": 30.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Incapacitated",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: 2012 Cap Mirror Match Defeat. Divergence Event: Mirror Match Combat Defeat. 2012 Captain America pins 2023 Steve Rogers to the glass walkway in a sleeper chokehold after suspecting Loki's shapeshi... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_ANCIENT_ONE_DENIAL",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -595.0
+      },
+      "data": {
+        "node_id": "NY_ANCIENT_ONE_DENIAL",
+        "parent_id": "ANCHOR_NY_2012",
+        "depth": 2,
+        "title": "Sanctum Astral Eviction",
+        "narrative_summary": "The Ancient One refuses Bruce Banner's plea, citing the catastrophic divergence of branching timelines without the Time Stone, and thrusts Banner's astral form from the Hulk body.",
+        "divergence_trigger": "Ancient One Refusal & Astral Ejection",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.060000000000000005,
+        "tva_entropy_index": 27.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Incapacitated",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Sanctum Astral Eviction. Divergence Event: Ancient One Refusal & Astral Ejection. The Ancient One refuses Bruce Banner's plea, citing the catastrophic divergence of branching timelines without the Time ... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_ancient_one_astral.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_EXTRACTION_FAIL",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -325.0
+      },
+      "data": {
+        "node_id": "ASGARD_EXTRACTION_FAIL",
+        "parent_id": "ANCHOR_ASGARD_2013",
+        "depth": 2,
+        "title": "Aether Syringe Malfunction",
+        "narrative_summary": "Rocket Raccoon's quantum extraction syringe fails against Jane Foster's erratic Reality Stone surge, triggering Asgardian royal alarm chimes across the palace.",
+        "divergence_trigger": "Aether Extraction Device Failure",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.04,
+        "tva_entropy_index": 28.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Aether Syringe Malfunction. Divergence Event: Aether Extraction Device Failure. Rocket Raccoon's quantum extraction syringe fails against Jane Foster's erratic Reality Stone surge, triggering Asgardia... Visual Tone: Opulent Asgardian gold halls, glowing crimson Aether tendrils, deep indigo shadow accents. Camera Dynamics: Fluid handheld steadicam gliding through royal palace arches, whip pans on royal guards. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_ROYAL_ALERT",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": -55.0
+      },
+      "data": {
+        "node_id": "ASGARD_ROYAL_ALERT",
+        "parent_id": "ANCHOR_ASGARD_2013",
+        "depth": 2,
+        "title": "Einherjar Royal Guard Interception",
+        "narrative_summary": "Thor is cornered in the royal armory by Einherjar guards and Volstagg while attempting to procure both the Aether extractor and Mjolnir.",
+        "divergence_trigger": "Palace Sentry Lockdown",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.03,
+        "tva_entropy_index": 22.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Einherjar Royal Guard Interception. Divergence Event: Palace Sentry Lockdown. Thor is cornered in the royal armory by Einherjar guards and Volstagg while attempting to procure both the Aether extrac... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_FRIGGA_CONFISCATION",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 215.0
+      },
+      "data": {
+        "node_id": "ASGARD_FRIGGA_CONFISCATION",
+        "parent_id": "ANCHOR_ASGARD_2013",
+        "depth": 2,
+        "title": "Frigga Temporal Interdiction",
+        "narrative_summary": "Queen Frigga sees through Thor's temporal origin immediately and seizes Mjolnir, warning that stripping Asgard of its protective hammer will doom the realm to Malekith.",
+        "divergence_trigger": "Frigga Confiscates Mjolnir",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.04,
+        "tva_entropy_index": 36.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Frigga Temporal Interdiction. Divergence Event: Frigga Confiscates Mjolnir. Queen Frigga sees through Thor's temporal origin immediately and seizes Mjolnir, warning that stripping Asgard of its pr... Visual Tone: Opulent Asgardian gold halls, glowing crimson Aether tendrils, deep indigo shadow accents. Camera Dynamics: Fluid handheld steadicam gliding through royal palace arches, whip pans on royal guards. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_NEBULA_SYNC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 485.0
+      },
+      "data": {
+        "node_id": "MORAG_NEBULA_SYNC",
+        "parent_id": "ANCHOR_MORAG_2014",
+        "depth": 2,
+        "title": "Sanctuary II Cybernetic Uplink",
+        "narrative_summary": "Nebula's temporal cybernetics accidentally sync with the 2014 Sanctuary II cloud network. Thanos intercepts her visual memory files containing the 2018 Decimation and 2023 Heist.",
+        "divergence_trigger": "Cybernetic Neural Cloud Hijack",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.6,
+        "tva_entropy_index": 43.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Captured",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Sanctuary II Cybernetic Uplink. Divergence Event: Cybernetic Neural Cloud Hijack. Nebula's temporal cybernetics accidentally sync with the 2014 Sanctuary II cloud network. Thanos intercepts her visual m... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 15,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_RHODEY_DOWN",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 755.0
+      },
+      "data": {
+        "node_id": "MORAG_RHODEY_DOWN",
+        "parent_id": "ANCHOR_MORAG_2014",
+        "depth": 2,
+        "title": "Korath Ambush at Morag Vault",
+        "narrative_summary": "Korath the Pursuer and Sakaaran mercenaries arrive early at the temple, hitting War Machine with heavy ion blasters before the Power Orb can be stowed.",
+        "divergence_trigger": "Korath Pursuer Heavy Ambush",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.35,
+        "tva_entropy_index": 30.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Incapacitated",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Korath Ambush at Morag Vault. Divergence Event: Korath Pursuer Heavy Ambush. Korath the Pursuer and Sakaaran mercenaries arrive early at the temple, hitting War Machine with heavy ion blasters befo... Visual Tone: Desolate aqua rainstorms, eerie violet Power Stone luminescence, reflective wet obsidian ruins. Camera Dynamics: Atmospheric dolly push across misty geyser plains focusing on temple vault doors. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 15,
+        "total_value": 0.5,
+        "victory_probability": 0.033,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_POWER_SEAL_BREACH",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 1025.0
+      },
+      "data": {
+        "node_id": "MORAG_POWER_SEAL_BREACH",
+        "parent_id": "ANCHOR_MORAG_2014",
+        "depth": 2,
+        "title": "Orb Thermal Containment Rupture",
+        "narrative_summary": "The forcefield clamp slips, exposing the raw purple celestial radiation of the Power Stone. Geysers ignite in violent purple plasma storms.",
+        "divergence_trigger": "Cosmic Power Stone Containment Breach",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.25,
+        "tva_entropy_index": 36.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Orb Thermal Containment Rupture. Divergence Event: Cosmic Power Stone Containment Breach. The forcefield clamp slips, exposing the raw purple celestial radiation of the Power Stone. Geysers ignite in violent pu... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_NATASHA_SACRIFICE",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 1295.0
+      },
+      "data": {
+        "node_id": "VORMIR_NATASHA_SACRIFICE",
+        "parent_id": "ANCHOR_VORMIR_2014",
+        "depth": 2,
+        "title": "Black Widow Sacrifice (Natasha Dies)",
+        "narrative_summary": "Natasha Romanoff kicks off the cliff face, breaking Clint's desperate grip and plunging into the radiant golden abyss. Clint awakens in the flooded basin clutching the Soul Stone in tears.",
+        "divergence_trigger": "Natasha Breaks Grip / Falls into Abyss",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 16.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Black Widow Sacrifice (Natasha Dies). Divergence Event: Natasha Breaks Grip / Falls into Abyss. Natasha Romanoff kicks off the cliff face, breaking Clint's desperate grip and plunging into the radiant golden abyss. C... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_2014.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_BARTON_SACRIFICE",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 1565.0
+      },
+      "data": {
+        "node_id": "VORMIR_BARTON_SACRIFICE",
+        "parent_id": "ANCHOR_VORMIR_2014",
+        "depth": 2,
+        "title": "Hawkeye Sacrifice (Clint Dies)",
+        "narrative_summary": "Clint Barton overpowers Natasha, pins her with an electrified grapple arrow, and hurls himself into the cosmic void. Clint falls backward into the golden clouds as Natasha screams from the precipice.",
+        "divergence_trigger": "Hawkeye Overpowers Black Widow Sacrifice",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 21.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Hawkeye Sacrifice (Clint Dies). Divergence Event: Hawkeye Overpowers Black Widow Sacrifice. Clint Barton overpowers Natasha, pins her with an electrified grapple arrow, and hurls himself into the cosmic void. Cli... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_clint_sacrifice.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_DUAL_FALL",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 1835.0
+      },
+      "data": {
+        "node_id": "VORMIR_DUAL_FALL",
+        "parent_id": "ANCHOR_VORMIR_2014",
+        "depth": 2,
+        "title": "Mutual Precipice Plunge (Both Die)",
+        "narrative_summary": "In their frantic grapple on the frozen precipice, the anchor piton snaps under their combined momentum. Both Clint and Natasha tumble together into the abyssal cosmic vortex. The summit remains empty and silent.",
+        "divergence_trigger": "Anchor Piton Snaps / Both Plunge into Void",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 51.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Mutual Precipice Plunge (Both Die). Divergence Event: Anchor Piton Snaps / Both Plunge into Void. In their frantic grapple on the frozen precipice, the anchor piton snaps under their combined momentum. Both Clint and N... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_dual_fall.jpg",
+        "visit_count": 15,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_RED_SKULL_REJECT",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1060,
+        "y": 2105.0
+      },
+      "data": {
+        "node_id": "VORMIR_RED_SKULL_REJECT",
+        "parent_id": "ANCHOR_VORMIR_2014",
+        "depth": 2,
+        "title": "Stonekeeper Sacrificial Rejection",
+        "narrative_summary": "The Red Skull rejects their desperate mutual struggle: 'The Stone demands an everlasting exchange of genuine surrender, not a tactical combat duel.' The Soul Stone remains locked in the cosmic eclipse.",
+        "divergence_trigger": "Red Skull Rejection of Tactical Suicide",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.13,
+        "tva_entropy_index": 46.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Stonekeeper Sacrificial Rejection. Divergence Event: Red Skull Rejection of Tactical Suicide. The Red Skull rejects their desperate mutual struggle: 'The Stone demands an everlasting exchange of genuine surrender, ... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 0.5,
+        "victory_probability": 0.033,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_TESSERACT_DROP_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -1405.0
+      },
+      "data": {
+        "node_id": "NY_TESSERACT_DROP_REC",
+        "parent_id": "NY_TESSERACT_DROP",
+        "depth": 3,
+        "title": "Camp Lehigh 1970 Infiltration",
+        "narrative_summary": "Tony Stark and Steve Rogers burn 2 Pym particles to execute an emergency temporal leap to the S.H.I.E.L.D. bunker in Camp Lehigh, New Jersey (April 7, 1970) to acquire both the earlier Tesseract and Hank Pym's reserve particle vials.",
+        "divergence_trigger": "1970 Camp Lehigh Temporal Leap",
+        "pym_particles_remaining": 6,
+        "stones_secured": {
+          "Space": true,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 50.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Camp Lehigh 1970 Infiltration. Divergence Event: 1970 Camp Lehigh Temporal Leap. Tony Stark and Steve Rogers burn 2 Pym particles to execute an emergency temporal leap to the S.H.I.E.L.D. bunker in Cam... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_2012.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_ELEVATOR_BLUFF_FAIL_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -1135.0
+      },
+      "data": {
+        "node_id": "NY_ELEVATOR_BLUFF_FAIL_REC",
+        "parent_id": "NY_ELEVATOR_BLUFF_FAIL",
+        "depth": 3,
+        "title": "Elevator Melee Victory & Scepter Extraction",
+        "narrative_summary": "Surrounded in the glass elevator, Steve Rogers magnetic-releases his shield to batter Rumlow's STRIKE team, shatters the exterior glass pane, and free-falls into the Stark Tower atrium fountain with the Chitauri Mind Scepter in hand.",
+        "divergence_trigger": "Glass Elevator Breach & Parachute Descent",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": true,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 39.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Elevator Melee Victory & Scepter Extraction. Divergence Event: Glass Elevator Breach & Parachute Descent. Surrounded in the glass elevator, Steve Rogers magnetic-releases his shield to batter Rumlow's STRIKE team, shatters the... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_elevator_brawl.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_CAP_MIRROR_LOSS_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -865.0
+      },
+      "data": {
+        "node_id": "NY_CAP_MIRROR_LOSS_REC",
+        "parent_id": "NY_CAP_MIRROR_LOSS",
+        "depth": 3,
+        "title": "Mirror Match Reversal & Catwalk Jump",
+        "narrative_summary": "Choked on the catwalk by 2012 Cap, 2023 Steve gasps 'Bucky is alive!' The shocking revelation stuns 2012 Cap, allowing Steve to reverse the sleeper hold, secure the Mind Stone scepter, and leap to the lower catwalk.",
+        "divergence_trigger": "Bucky Barnes Psychological Stun",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": true,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.1,
+        "tva_entropy_index": 42.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Mirror Match Reversal & Catwalk Jump. Divergence Event: Bucky Barnes Psychological Stun. Choked on the catwalk by 2012 Cap, 2023 Steve gasps 'Bucky is alive!' The shocking revelation stuns 2012 Cap, allowing S... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_ANCIENT_ONE_DENIAL_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -595.0
+      },
+      "data": {
+        "node_id": "NY_ANCIENT_ONE_DENIAL_REC",
+        "parent_id": "NY_ANCIENT_ONE_DENIAL",
+        "depth": 3,
+        "title": "Ancient One Surrenders Time Stone",
+        "narrative_summary": "Floating in astral form over Greenwich Village, Bruce Banner convinces the Ancient One that Doctor Strange surrendered the Time Stone to Thanos intentionally as part of a 14-million-to-1 endgame gamble. Realizing Strange's intent, she returns Banner to his body and entrusts the Eye of Agamotto.",
+        "divergence_trigger": "Astral Negotiation on Sanctum Roof",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": true,
+          "Soul": false
+        },
+        "thanos_awareness": 0.07,
+        "tva_entropy_index": 35.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Ancient One Surrenders Time Stone. Divergence Event: Astral Negotiation on Sanctum Roof. Floating in astral form over Greenwich Village, Bruce Banner convinces the Ancient One that Doctor Strange surrendered t... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_ancient_one_astral.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_EXTRACTION_FAIL_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -325.0
+      },
+      "data": {
+        "node_id": "ASGARD_EXTRACTION_FAIL_REC",
+        "parent_id": "ASGARD_EXTRACTION_FAIL",
+        "depth": 3,
+        "title": "Aether Extracted & Mjolnir Summoned",
+        "narrative_summary": "Rocket adjusts the syringe frequency to counteract the Reality Stone's erratic surge, drawing the dark crimson Aether while Thor summons lightning across Valaskjalf to blind the Einherjar guards and recall Mjolnir.",
+        "divergence_trigger": "Quantum Syringe Recalibration & Thor Lightning Storm",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": true,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.07,
+        "tva_entropy_index": 38.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Aether Extracted & Mjolnir Summoned. Divergence Event: Quantum Syringe Recalibration & Thor Lightning Storm. Rocket adjusts the syringe frequency to counteract the Reality Stone's erratic surge, drawing the dark crimson Aether wh... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_ROYAL_ALERT_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": -55.0
+      },
+      "data": {
+        "node_id": "ASGARD_ROYAL_ALERT_REC",
+        "parent_id": "ASGARD_ROYAL_ALERT",
+        "depth": 3,
+        "title": "Emergency Quantum Rally",
+        "narrative_summary": "The Avengers burn a contingency Pym vial to extract back to the 2023 Quantum Tunnel, scrambling tactical scanners to contain cascading timeline ruptures.",
+        "divergence_trigger": "Compound Regroup & Quantum Recalibration",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.08,
+        "tva_entropy_index": 34.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Emergency Quantum Rally. Divergence Event: Compound Regroup & Quantum Recalibration. The Avengers burn a contingency Pym vial to extract back to the 2023 Quantum Tunnel, scrambling tactical scanners to con... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_FRIGGA_CONFISCATION_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 215.0
+      },
+      "data": {
+        "node_id": "ASGARD_FRIGGA_CONFISCATION_REC",
+        "parent_id": "ASGARD_FRIGGA_CONFISCATION",
+        "depth": 3,
+        "title": "Frigga Conceals Thor & Grants Mjolnir",
+        "narrative_summary": "Queen Frigga sees through Thor's sorrow from the future. She weaves Asgardian illusion runes to cloak Thor and Rocket from Odin's sentinels, blessing their mission and willingly yielding Mjolnir.",
+        "divergence_trigger": "Frigga's Royal Sanctuary & Blessing",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": true,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.06,
+        "tva_entropy_index": 46.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Frigga Conceals Thor & Grants Mjolnir. Divergence Event: Frigga's Royal Sanctuary & Blessing. Queen Frigga sees through Thor's sorrow from the future. She weaves Asgardian illusion runes to cloak Thor and Rocket fr... Visual Tone: Opulent Asgardian gold halls, glowing crimson Aether tendrils, deep indigo shadow accents. Camera Dynamics: Fluid handheld steadicam gliding through royal palace arches, whip pans on royal guards. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_NEBULA_SYNC_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 485.0
+      },
+      "data": {
+        "node_id": "MORAG_NEBULA_SYNC_REC",
+        "parent_id": "MORAG_NEBULA_SYNC",
+        "depth": 3,
+        "title": "Neural Link Severed on Morag",
+        "narrative_summary": "Rhodey uses an arc-welder to sever Nebula's corrupted temporal cybernetic receiver. They secure the Power Stone orb and initiate emergency recall, but her memory files of the 2023 Gauntlet have already uploaded to Sanctuary II.",
+        "divergence_trigger": "Emergency Neural Disconnect & Power Orb Secure",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": true,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.95,
+        "tva_entropy_index": 65.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Captured",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Neural Link Severed on Morag. Divergence Event: Emergency Neural Disconnect & Power Orb Secure. Rhodey uses an arc-welder to sever Nebula's corrupted temporal cybernetic receiver. They secure the Power Stone orb and ... Visual Tone: Desolate aqua rainstorms, eerie violet Power Stone luminescence, reflective wet obsidian ruins. Camera Dynamics: Atmospheric dolly push across misty geyser plains focusing on temple vault doors. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 15,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_RHODEY_DOWN_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 755.0
+      },
+      "data": {
+        "node_id": "MORAG_RHODEY_DOWN_REC",
+        "parent_id": "MORAG_RHODEY_DOWN",
+        "depth": 3,
+        "title": "Korath Ambush Shattered",
+        "narrative_summary": "War Machine fires shoulder-mounted bunker busters to obliterate Korath's Sakaaran squad, rescuing Nebula and securing the Power Orb before Ronan's fleet can arrive.",
+        "divergence_trigger": "War Machine Bunker Buster Salvo",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": true,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.5,
+        "tva_entropy_index": 45.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Korath Ambush Shattered. Divergence Event: War Machine Bunker Buster Salvo. War Machine fires shoulder-mounted bunker busters to obliterate Korath's Sakaaran squad, rescuing Nebula and securing th... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 0.5,
+        "victory_probability": 0.033,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "MORAG_POWER_SEAL_BREACH_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 1025.0
+      },
+      "data": {
+        "node_id": "MORAG_POWER_SEAL_BREACH_REC",
+        "parent_id": "MORAG_POWER_SEAL_BREACH",
+        "depth": 3,
+        "title": "Emergency Quantum Rally",
+        "narrative_summary": "The Avengers burn a contingency Pym vial to extract back to the 2023 Quantum Tunnel, scrambling tactical scanners to contain cascading timeline ruptures.",
+        "divergence_trigger": "Compound Regroup & Quantum Recalibration",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.3,
+        "tva_entropy_index": 48.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Emergency Quantum Rally. Divergence Event: Compound Regroup & Quantum Recalibration. The Avengers burn a contingency Pym vial to extract back to the 2023 Quantum Tunnel, scrambling tactical scanners to con... Visual Tone: High-contrast tactical Stark blue, stark halogen reflections on glass catwalks, holographic HUD reflections. Camera Dynamics: Dynamic 35mm handheld tracking shot amidst shattered glass and elevator shafts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_NATASHA_SACRIFICE_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 1295.0
+      },
+      "data": {
+        "node_id": "VORMIR_NATASHA_SACRIFICE_REC",
+        "parent_id": "VORMIR_NATASHA_SACRIFICE",
+        "depth": 3,
+        "title": "Clint Awakens in Vormir Basin (Natasha Sacrificed)",
+        "narrative_summary": "Clint Barton awakens in the shallow pool beneath the golden eclipse, clutching the Soul Stone. Overwhelmed with grief after failing to prevent Natasha's fatal leap, Clint leaps back to the 2023 Compound alone, delivering the fifth stone to Tony Stark and Bruce Banner for the Nano Gauntlet.",
+        "divergence_trigger": "Hawkeye Solitary Soul Stone Return",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 26.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Clint Awakens in Vormir Basin (Natasha Sacrificed). Divergence Event: Hawkeye Solitary Soul Stone Return. Clint Barton awakens in the shallow pool beneath the golden eclipse, clutching the Soul Stone. Overwhelmed with grief af... Visual Tone: Somber eclipse violet, brooding cloud ceiling, radiant amber Soul realm horizon. Camera Dynamics: High-altitude vertiginous top-down crane looking down sheer cliff face into the cosmic vortex. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_2014.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_BARTON_SACRIFICE_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 1565.0
+      },
+      "data": {
+        "node_id": "VORMIR_BARTON_SACRIFICE_REC",
+        "parent_id": "VORMIR_BARTON_SACRIFICE",
+        "depth": 3,
+        "title": "Natasha Awakens in Vormir Basin (Clint Sacrificed)",
+        "narrative_summary": "Natasha Romanoff awakens face-up in the flooded basin beneath the cosmic eclipse, clutching the glowing orange Soul Stone. Shattered by Clint Barton's lethal plunge to save her life, Natasha straps his quiver to her shoulder, activates her quantum GPS, and returns to 2023 alone. She confronts Tony and Steve: 'Clint died so we could have this stone. We don't lose today.'",
+        "divergence_trigger": "Black Widow Solitary Soul Stone Return",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 31.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Natasha Awakens in Vormir Basin (Clint Sacrificed). Divergence Event: Black Widow Solitary Soul Stone Return. Natasha Romanoff awakens face-up in the flooded basin beneath the cosmic eclipse, clutching the glowing orange Soul Ston... Visual Tone: Somber eclipse violet, brooding cloud ceiling, radiant amber Soul realm horizon. Camera Dynamics: High-altitude vertiginous top-down crane looking down sheer cliff face into the cosmic vortex. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_clint_sacrifice.jpg",
+        "visit_count": 15,
+        "total_value": 14.5,
+        "victory_probability": 0.967,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_DUAL_FALL_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 1835.0
+      },
+      "data": {
+        "node_id": "VORMIR_DUAL_FALL_REC",
+        "parent_id": "VORMIR_DUAL_FALL",
+        "depth": 3,
+        "title": "Catastrophic Double Loss on Vormir",
+        "narrative_summary": "The 2023 Quantum Tunnel counts down to zero. The platform flashes with chronal energy\u2014but emerges completely empty. Both Clint Barton and Natasha Romanoff perished in the Vormir cosmic abyss when their anchor cable snapped. The Soul Stone rests unclaimed on the desolate planet. The Avengers are down two founders with no Soul Stone to forge the Gauntlet.",
+        "divergence_trigger": "Quantum Pad Silence: Both Operatives Lost",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.30000000000000004,
+        "tva_entropy_index": 96.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Catastrophic Double Loss on Vormir. Divergence Event: Quantum Pad Silence: Both Operatives Lost. The 2023 Quantum Tunnel counts down to zero. The platform flashes with chronal energy\u2014but emerges completely empty. Both... Visual Tone: Brilliant incandescent golden amber timedoors, neon violet chronal decay, stark prismatic lens flares. Camera Dynamics: Rapid Dutch-angle zoom in, followed by a time-dilation freeze and chronal implosion sweep. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_dual_fall.jpg",
+        "visit_count": 15,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": true,
+        "terminal_verdict": "TVA_RESET",
+        "theme": {
+          "type": "purple",
+          "border": "#c084fc",
+          "bg": "rgba(192, 132, 252, 0.15)",
+          "glow": "0 0 15px rgba(192, 132, 252, 0.5)",
+          "badge": "TVA RESET"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_RED_SKULL_REJECT_REC",
+      "type": "mobiusNode",
+      "position": {
+        "x": 1540,
+        "y": 2105.0
+      },
+      "data": {
+        "node_id": "VORMIR_RED_SKULL_REJECT_REC",
+        "parent_id": "VORMIR_RED_SKULL_REJECT",
+        "depth": 3,
+        "title": "Vormir Cosmic Rejection Abort",
+        "narrative_summary": "With the Stonekeeper sealing the cosmic eclipse against their tactical combat, Clint and Natasha burn their reserve Pym dose to jump back to 2023 empty-handed. Tony Stark scrambles to analyze if alternate multiverse timelines possess an accessible Soul Stone.",
+        "divergence_trigger": "Emergency Vormir Abort & Quantum Retreat",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.21000000000000002,
+        "tva_entropy_index": 71.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Vormir Cosmic Rejection Abort. Divergence Event: Emergency Vormir Abort & Quantum Retreat. With the Stonekeeper sealing the cosmic eclipse against their tactical combat, Clint and Natasha burn their reserve Pym ... Visual Tone: Somber eclipse violet, brooding cloud ceiling, radiant amber Soul realm horizon. Camera Dynamics: High-altitude vertiginous top-down crane looking down sheer cliff face into the cosmic vortex. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 15,
+        "total_value": 0.5,
+        "victory_probability": 0.033,
+        "is_terminal": false,
+        "terminal_verdict": null,
+        "theme": {
+          "type": "amber",
+          "border": "#f59e0b",
+          "bg": "rgba(245, 158, 11, 0.12)",
+          "glow": "0 0 12px rgba(245, 158, 11, 0.4)",
+          "badge": "DIVERGENCE BRANCH"
+        }
+      }
+    },
+    {
+      "id": "NY_TESSERACT_DROP_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": -1270.0
+      },
+      "data": {
+        "node_id": "NY_TESSERACT_DROP_REC_ADV",
+        "parent_id": "NY_TESSERACT_DROP_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+        "pym_particles_remaining": 6,
+        "stones_secured": {
+          "Space": true,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.23000000000000004,
+        "tva_entropy_index": 60.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2012 Stark Security & S.H.I.E.L.D.. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_2012.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "NY_ELEVATOR_BLUFF_FAIL_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": -1000.0
+      },
+      "data": {
+        "node_id": "NY_ELEVATOR_BLUFF_FAIL_REC_ADV",
+        "parent_id": "NY_ELEVATOR_BLUFF_FAIL_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: Hydra High Command (Alexander Pierce)",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": true,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 59.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: Hydra High Command (Alexander Pierce). The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_elevator_brawl.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "NY_CAP_MIRROR_LOSS_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": -730.0
+      },
+      "data": {
+        "node_id": "NY_CAP_MIRROR_LOSS_REC_ADV",
+        "parent_id": "NY_CAP_MIRROR_LOSS_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": true,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.18,
+        "tva_entropy_index": 52.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2012 Stark Security & S.H.I.E.L.D.. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "NY_ANCIENT_ONE_DENIAL_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": -460.0
+      },
+      "data": {
+        "node_id": "NY_ANCIENT_ONE_DENIAL_REC_ADV",
+        "parent_id": "NY_ANCIENT_ONE_DENIAL_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: Dark Dimension Echo & S.H.I.E.L.D. Radar",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": true,
+          "Soul": false
+        },
+        "thanos_awareness": 0.11000000000000001,
+        "tva_entropy_index": 47.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Anchor: New York (May 4, 2012)"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: Dark Dimension Echo & S.H.I.E.L.D. Radar. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/ny_ancient_one_astral.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_EXTRACTION_FAIL_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": -190.0
+      },
+      "data": {
+        "node_id": "ASGARD_EXTRACTION_FAIL_REC_ADV",
+        "parent_id": "ASGARD_EXTRACTION_FAIL_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": true,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.15000000000000002,
+        "tva_entropy_index": 48.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2012 Stark Security & S.H.I.E.L.D.. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_ROYAL_ALERT_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 80.0
+      },
+      "data": {
+        "node_id": "ASGARD_ROYAL_ALERT_REC_ADV",
+        "parent_id": "ASGARD_ROYAL_ALERT_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.16,
+        "tva_entropy_index": 44.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2012 Stark Security & S.H.I.E.L.D.. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/asgard_2013.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "ASGARD_FRIGGA_CONFISCATION_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 350.0
+      },
+      "data": {
+        "node_id": "ASGARD_FRIGGA_CONFISCATION_REC_ADV",
+        "parent_id": "ASGARD_FRIGGA_CONFISCATION_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": true,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.14,
+        "tva_entropy_index": 56.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Anchor: Asgard (November 2013)"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2012 Stark Security & S.H.I.E.L.D.. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "MORAG_NEBULA_SYNC_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 620.0
+      },
+      "data": {
+        "node_id": "MORAG_NEBULA_SYNC_REC_ADV",
+        "parent_id": "MORAG_NEBULA_SYNC_REC",
+        "depth": 4,
+        "title": "Terminal: TVA Temporal Reset",
+        "narrative_summary": "The timeline exceeded the red line threshold of 85.0 variance entropy. TVA Minutemen detonate Chrono Reset charges, disintegrating the branch timeline from history.",
+        "divergence_trigger": "Counter: 2014 Thanos / Sanctuary II",
+        "pym_particles_remaining": 2,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": true,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 1.0,
+        "tva_entropy_index": 90.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Captured",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: TVA Temporal Reset. Divergence Event: Counter: 2014 Thanos / Sanctuary II. The timeline exceeded the red line threshold of 85.0 variance entropy. TVA Minutemen detonate Chrono Reset charges, disi... Visual Tone: Brilliant incandescent golden amber timedoors, neon violet chronal decay, stark prismatic lens flares. Camera Dynamics: Rapid Dutch-angle zoom in, followed by a time-dilation freeze and chronal implosion sweep. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/morag_2014.jpg",
+        "visit_count": 14,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": true,
+        "terminal_verdict": "TVA_RESET",
+        "theme": {
+          "type": "purple",
+          "border": "#c084fc",
+          "bg": "rgba(192, 132, 252, 0.15)",
+          "glow": "0 0 15px rgba(192, 132, 252, 0.5)",
+          "badge": "TVA RESET"
+        }
+      }
+    },
+    {
+      "id": "MORAG_RHODEY_DOWN_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 890.0
+      },
+      "data": {
+        "node_id": "MORAG_RHODEY_DOWN_REC_ADV",
+        "parent_id": "MORAG_RHODEY_DOWN_REC",
+        "depth": 4,
+        "title": "Terminal: Thanos Double Snap",
+        "narrative_summary": "2014 Thanos overruns the ruined Compound, recovers the Infinity Stones, and shreds this universe down to its last atom to create a grateful new reality.",
+        "divergence_trigger": "Counter: 2014 Thanos / Sanctuary II",
+        "pym_particles_remaining": 3,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": true,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.85,
+        "tva_entropy_index": 70.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Thanos Double Snap. Divergence Event: Counter: 2014 Thanos / Sanctuary II. 2014 Thanos overruns the ruined Compound, recovers the Infinity Stones, and shreds this universe down to its last atom t... Visual Tone: Grim crimson atmospheric haze, blinding purple celestial plasma fire, harsh chiaroscuro shadows. Camera Dynamics: Slow orbital tracking shot sweeping past crumbling debris, rack focus to towering warship. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 14,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": true,
+        "terminal_verdict": "THANOS_DOUBLE_SNAP",
+        "theme": {
+          "type": "crimson",
+          "border": "#ef4444",
+          "bg": "rgba(239, 68, 68, 0.15)",
+          "glow": "0 0 15px rgba(239, 68, 68, 0.5)",
+          "badge": "THANOS VICTORY"
+        }
+      }
+    },
+    {
+      "id": "MORAG_POWER_SEAL_BREACH_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 1160.0
+      },
+      "data": {
+        "node_id": "MORAG_POWER_SEAL_BREACH_REC_ADV",
+        "parent_id": "MORAG_POWER_SEAL_BREACH_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2014 Thanos / Sanctuary II",
+        "pym_particles_remaining": 2,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.6499999999999999,
+        "tva_entropy_index": 73.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Anchor: Morag (2014)"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2014 Thanos / Sanctuary II. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_NATASHA_SACRIFICE_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 1430.0
+      },
+      "data": {
+        "node_id": "VORMIR_NATASHA_SACRIFICE_REC_ADV",
+        "parent_id": "VORMIR_NATASHA_SACRIFICE_REC",
+        "depth": 4,
+        "title": "Terminal: Prime Timeline Victory",
+        "narrative_summary": "The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repelled with minimal collateral damage and timeline integrity is preserved.",
+        "divergence_trigger": "Counter: 2014 Thanos Orbital Salvo",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.35000000000000003,
+        "tva_entropy_index": 41.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Prime Timeline Victory. Divergence Event: Counter: 2014 Thanos Orbital Salvo. The Avengers assemble the Nano-Gauntlet. Bruce Banner performs the Blip Snap, restoring the fallen. Past Thanos is repel... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_2014.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_BARTON_SACRIFICE_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 1700.0
+      },
+      "data": {
+        "node_id": "VORMIR_BARTON_SACRIFICE_REC_ADV",
+        "parent_id": "VORMIR_BARTON_SACRIFICE_REC",
+        "depth": 4,
+        "title": "Terminal: Natasha's Bittersweet Victory (Clint Fallen)",
+        "narrative_summary": "Natasha Romanoff coordinates the compound perimeter defense, personally delivering the Nano Gauntlet to Iron Man. Tony Stark performs the sacrifice snap, disintegrating Thanos's armada. The universe is saved, but Clint's family returns to an empty farm\u2014honoring Hawkeye's ultimate sacrifice.",
+        "divergence_trigger": "Counter: 2014 Thanos & Black Order Incursion",
+        "pym_particles_remaining": 4,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": true
+        },
+        "thanos_awareness": 0.35000000000000003,
+        "tva_entropy_index": 46.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Deceased",
+            "location": "Anchor: Vormir (2014)"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: Natasha's Bittersweet Victory (Clint Fallen). Divergence Event: Counter: 2014 Thanos & Black Order Incursion. Natasha Romanoff coordinates the compound perimeter defense, personally delivering the Nano Gauntlet to Iron Man. Tony S... Visual Tone: Brilliant arc-reactor cyan, electric blue gamma discharge, epic golden rim lighting. Camera Dynamics: Sweeping heroic low-angle crane shot ascending past the Avengers as lightning erupts. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": "/storyboards/vormir_clint_sacrifice.jpg",
+        "visit_count": 14,
+        "total_value": 14.0,
+        "victory_probability": 1.0,
+        "is_terminal": true,
+        "terminal_verdict": "PRIME_VICTORY",
+        "theme": {
+          "type": "cyan",
+          "border": "#00f0ff",
+          "bg": "rgba(0, 240, 255, 0.15)",
+          "glow": "0 0 15px rgba(0, 240, 255, 0.5)",
+          "badge": "PRIME VICTORY"
+        }
+      }
+    },
+    {
+      "id": "VORMIR_RED_SKULL_REJECT_REC_ADV",
+      "type": "mobiusNode",
+      "position": {
+        "x": 2020,
+        "y": 1970.0
+      },
+      "data": {
+        "node_id": "VORMIR_RED_SKULL_REJECT_REC_ADV",
+        "parent_id": "VORMIR_RED_SKULL_REJECT_REC",
+        "depth": 4,
+        "title": "Terminal: TVA Temporal Reset",
+        "narrative_summary": "The timeline exceeded the red line threshold of 85.0 variance entropy. TVA Minutemen detonate Chrono Reset charges, disintegrating the branch timeline from history.",
+        "divergence_trigger": "Counter: TVA Minutemen Patrol",
+        "pym_particles_remaining": 2,
+        "stones_secured": {
+          "Space": false,
+          "Mind": false,
+          "Reality": false,
+          "Power": false,
+          "Time": false,
+          "Soul": false
+        },
+        "thanos_awareness": 0.21000000000000002,
+        "tva_entropy_index": 91.0,
+        "characters": {
+          "Tony Stark": {
+            "name": "Tony Stark",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Steve Rogers": {
+            "name": "Steve Rogers",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Scott Lang": {
+            "name": "Scott Lang",
+            "status": "Active",
+            "location": "Stark Tower 2012"
+          },
+          "Bruce Banner": {
+            "name": "Bruce Banner",
+            "status": "Active",
+            "location": "Sanctum Sanctorum 2012"
+          },
+          "Thor Odinson": {
+            "name": "Thor Odinson",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "Rocket Raccoon": {
+            "name": "Rocket Raccoon",
+            "status": "Active",
+            "location": "Asgard Palace 2013"
+          },
+          "James Rhodes": {
+            "name": "James Rhodes",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Nebula": {
+            "name": "Nebula",
+            "status": "Active",
+            "location": "Morag Vault 2014"
+          },
+          "Clint Barton": {
+            "name": "Clint Barton",
+            "status": "Active",
+            "location": "Vormir Peak 2014"
+          },
+          "Natasha Romanoff": {
+            "name": "Natasha Romanoff",
+            "status": "Active",
+            "location": "Anchor: Vormir (2014)"
+          }
+        },
+        "cinematic_prompt": "5-second cinematic film clip, 4K resolution, photorealistic cinematic lighting. Scene: Terminal: TVA Temporal Reset. Divergence Event: Counter: TVA Minutemen Patrol. The timeline exceeded the red line threshold of 85.0 variance entropy. TVA Minutemen detonate Chrono Reset charges, disi... Visual Tone: Brilliant incandescent golden amber timedoors, neon violet chronal decay, stark prismatic lens flares. Camera Dynamics: Rapid Dutch-angle zoom in, followed by a time-dilation freeze and chronal implosion sweep. 35mm anamorphic lens, subtle film grain, Stark holographic telemetry reflections, seamless 5-second loop.",
+        "video_clip_url": null,
+        "video_status": "none",
+        "storyboard_url": null,
+        "visit_count": 14,
+        "total_value": 0.0,
+        "victory_probability": 0.0,
+        "is_terminal": true,
+        "terminal_verdict": "TVA_RESET",
+        "theme": {
+          "type": "purple",
+          "border": "#c084fc",
+          "bg": "rgba(192, 132, 252, 0.15)",
+          "glow": "0 0 15px rgba(192, 132, 252, 0.5)",
+          "badge": "TVA RESET"
+        }
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ROOT_AVENGERS_FACILITY_2023-ANCHOR_NY_2012-0",
+      "source": "ROOT_AVENGERS_FACILITY_2023",
+      "target": "ANCHOR_NY_2012",
+      "animated": true,
+      "label": "Quantum Temporal Insertion",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ROOT_AVENGERS_FACILITY_2023-ANCHOR_ASGARD_2013-1",
+      "source": "ROOT_AVENGERS_FACILITY_2023",
+      "target": "ANCHOR_ASGARD_2013",
+      "animated": true,
+      "label": "Quantum Temporal Insertion",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ROOT_AVENGERS_FACILITY_2023-ANCHOR_MORAG_2014-2",
+      "source": "ROOT_AVENGERS_FACILITY_2023",
+      "target": "ANCHOR_MORAG_2014",
+      "animated": true,
+      "label": "Quantum Temporal Insertion",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ROOT_AVENGERS_FACILITY_2023-ANCHOR_VORMIR_2014-3",
+      "source": "ROOT_AVENGERS_FACILITY_2023",
+      "target": "ANCHOR_VORMIR_2014",
+      "animated": true,
+      "label": "Quantum Temporal Insertion",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_NY_2012-NY_TESSERACT_DROP-4",
+      "source": "ANCHOR_NY_2012",
+      "target": "NY_TESSERACT_DROP",
+      "animated": true,
+      "label": "Hulk Stairwell Impact / Briefcase Dropped",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_NY_2012-NY_ELEVATOR_BLUFF_FAIL-5",
+      "source": "ANCHOR_NY_2012",
+      "target": "NY_ELEVATOR_BLUFF_FAIL",
+      "animated": true,
+      "label": "Elevator Whisper Bluff Failed",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_NY_2012-NY_CAP_MIRROR_LOSS-6",
+      "source": "ANCHOR_NY_2012",
+      "target": "NY_CAP_MIRROR_LOSS",
+      "animated": true,
+      "label": "Mirror Match Combat Defeat",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_NY_2012-NY_ANCIENT_ONE_DENIAL-7",
+      "source": "ANCHOR_NY_2012",
+      "target": "NY_ANCIENT_ONE_DENIAL",
+      "animated": true,
+      "label": "Ancient One Refusal & Astral Ejection",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_TESSERACT_DROP-NY_TESSERACT_DROP_REC-8",
+      "source": "NY_TESSERACT_DROP",
+      "target": "NY_TESSERACT_DROP_REC",
+      "animated": true,
+      "label": "1970 Camp Lehigh Temporal Leap",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_ELEVATOR_BLUFF_FAIL-NY_ELEVATOR_BLUFF_FAIL_REC-9",
+      "source": "NY_ELEVATOR_BLUFF_FAIL",
+      "target": "NY_ELEVATOR_BLUFF_FAIL_REC",
+      "animated": true,
+      "label": "Glass Elevator Breach & Parachute Descent",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_CAP_MIRROR_LOSS-NY_CAP_MIRROR_LOSS_REC-10",
+      "source": "NY_CAP_MIRROR_LOSS",
+      "target": "NY_CAP_MIRROR_LOSS_REC",
+      "animated": true,
+      "label": "Bucky Barnes Psychological Stun",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_ANCIENT_ONE_DENIAL-NY_ANCIENT_ONE_DENIAL_REC-11",
+      "source": "NY_ANCIENT_ONE_DENIAL",
+      "target": "NY_ANCIENT_ONE_DENIAL_REC",
+      "animated": true,
+      "label": "Astral Negotiation on Sanctum Roof",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_ASGARD_2013-ASGARD_EXTRACTION_FAIL-12",
+      "source": "ANCHOR_ASGARD_2013",
+      "target": "ASGARD_EXTRACTION_FAIL",
+      "animated": true,
+      "label": "Aether Extraction Device Failure",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_ASGARD_2013-ASGARD_ROYAL_ALERT-13",
+      "source": "ANCHOR_ASGARD_2013",
+      "target": "ASGARD_ROYAL_ALERT",
+      "animated": true,
+      "label": "Palace Sentry Lockdown",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_ASGARD_2013-ASGARD_FRIGGA_CONFISCATION-14",
+      "source": "ANCHOR_ASGARD_2013",
+      "target": "ASGARD_FRIGGA_CONFISCATION",
+      "animated": true,
+      "label": "Frigga Confiscates Mjolnir",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_EXTRACTION_FAIL-ASGARD_EXTRACTION_FAIL_REC-15",
+      "source": "ASGARD_EXTRACTION_FAIL",
+      "target": "ASGARD_EXTRACTION_FAIL_REC",
+      "animated": true,
+      "label": "Quantum Syringe Recalibration & Thor Lightning Storm",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_ROYAL_ALERT-ASGARD_ROYAL_ALERT_REC-16",
+      "source": "ASGARD_ROYAL_ALERT",
+      "target": "ASGARD_ROYAL_ALERT_REC",
+      "animated": true,
+      "label": "Compound Regroup & Quantum Recalibration",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_FRIGGA_CONFISCATION-ASGARD_FRIGGA_CONFISCATION_REC-17",
+      "source": "ASGARD_FRIGGA_CONFISCATION",
+      "target": "ASGARD_FRIGGA_CONFISCATION_REC",
+      "animated": true,
+      "label": "Frigga's Royal Sanctuary & Blessing",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_MORAG_2014-MORAG_NEBULA_SYNC-18",
+      "source": "ANCHOR_MORAG_2014",
+      "target": "MORAG_NEBULA_SYNC",
+      "animated": true,
+      "label": "Cybernetic Neural Cloud Hijack",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_MORAG_2014-MORAG_RHODEY_DOWN-19",
+      "source": "ANCHOR_MORAG_2014",
+      "target": "MORAG_RHODEY_DOWN",
+      "animated": true,
+      "label": "Korath Pursuer Heavy Ambush",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_MORAG_2014-MORAG_POWER_SEAL_BREACH-20",
+      "source": "ANCHOR_MORAG_2014",
+      "target": "MORAG_POWER_SEAL_BREACH",
+      "animated": true,
+      "label": "Cosmic Power Stone Containment Breach",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_NEBULA_SYNC-MORAG_NEBULA_SYNC_REC-21",
+      "source": "MORAG_NEBULA_SYNC",
+      "target": "MORAG_NEBULA_SYNC_REC",
+      "animated": true,
+      "label": "Emergency Neural Disconnect & Power Orb Secure",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_RHODEY_DOWN-MORAG_RHODEY_DOWN_REC-22",
+      "source": "MORAG_RHODEY_DOWN",
+      "target": "MORAG_RHODEY_DOWN_REC",
+      "animated": true,
+      "label": "War Machine Bunker Buster Salvo",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_POWER_SEAL_BREACH-MORAG_POWER_SEAL_BREACH_REC-23",
+      "source": "MORAG_POWER_SEAL_BREACH",
+      "target": "MORAG_POWER_SEAL_BREACH_REC",
+      "animated": true,
+      "label": "Compound Regroup & Quantum Recalibration",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_VORMIR_2014-VORMIR_NATASHA_SACRIFICE-24",
+      "source": "ANCHOR_VORMIR_2014",
+      "target": "VORMIR_NATASHA_SACRIFICE",
+      "animated": true,
+      "label": "Natasha Breaks Grip / Falls into Abyss",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_VORMIR_2014-VORMIR_BARTON_SACRIFICE-25",
+      "source": "ANCHOR_VORMIR_2014",
+      "target": "VORMIR_BARTON_SACRIFICE",
+      "animated": true,
+      "label": "Hawkeye Overpowers Black Widow Sacrifice",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_VORMIR_2014-VORMIR_DUAL_FALL-26",
+      "source": "ANCHOR_VORMIR_2014",
+      "target": "VORMIR_DUAL_FALL",
+      "animated": true,
+      "label": "Anchor Piton Snaps / Both Plunge into Void",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ANCHOR_VORMIR_2014-VORMIR_RED_SKULL_REJECT-27",
+      "source": "ANCHOR_VORMIR_2014",
+      "target": "VORMIR_RED_SKULL_REJECT",
+      "animated": true,
+      "label": "Red Skull Rejection of Tactical Suicide",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_NATASHA_SACRIFICE-VORMIR_NATASHA_SACRIFICE_REC-28",
+      "source": "VORMIR_NATASHA_SACRIFICE",
+      "target": "VORMIR_NATASHA_SACRIFICE_REC",
+      "animated": true,
+      "label": "Hawkeye Solitary Soul Stone Return",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_BARTON_SACRIFICE-VORMIR_BARTON_SACRIFICE_REC-29",
+      "source": "VORMIR_BARTON_SACRIFICE",
+      "target": "VORMIR_BARTON_SACRIFICE_REC",
+      "animated": true,
+      "label": "Black Widow Solitary Soul Stone Return",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_DUAL_FALL-VORMIR_DUAL_FALL_REC-30",
+      "source": "VORMIR_DUAL_FALL",
+      "target": "VORMIR_DUAL_FALL_REC",
+      "animated": true,
+      "label": "Quantum Pad Silence: Both Operatives Lost",
+      "style": {
+        "stroke": "#c084fc",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_RED_SKULL_REJECT-VORMIR_RED_SKULL_REJECT_REC-31",
+      "source": "VORMIR_RED_SKULL_REJECT",
+      "target": "VORMIR_RED_SKULL_REJECT_REC",
+      "animated": true,
+      "label": "Emergency Vormir Abort & Quantum Retreat",
+      "style": {
+        "stroke": "#f59e0b",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_TESSERACT_DROP_REC-NY_TESSERACT_DROP_REC_ADV-32",
+      "source": "NY_TESSERACT_DROP_REC",
+      "target": "NY_TESSERACT_DROP_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_ELEVATOR_BLUFF_FAIL_REC-NY_ELEVATOR_BLUFF_FAIL_REC_ADV-33",
+      "source": "NY_ELEVATOR_BLUFF_FAIL_REC",
+      "target": "NY_ELEVATOR_BLUFF_FAIL_REC_ADV",
+      "animated": true,
+      "label": "Counter: Hydra High Command (Alexander Pierce)",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_CAP_MIRROR_LOSS_REC-NY_CAP_MIRROR_LOSS_REC_ADV-34",
+      "source": "NY_CAP_MIRROR_LOSS_REC",
+      "target": "NY_CAP_MIRROR_LOSS_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-NY_ANCIENT_ONE_DENIAL_REC-NY_ANCIENT_ONE_DENIAL_REC_ADV-35",
+      "source": "NY_ANCIENT_ONE_DENIAL_REC",
+      "target": "NY_ANCIENT_ONE_DENIAL_REC_ADV",
+      "animated": true,
+      "label": "Counter: Dark Dimension Echo & S.H.I.E.L.D. Radar",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_EXTRACTION_FAIL_REC-ASGARD_EXTRACTION_FAIL_REC_ADV-36",
+      "source": "ASGARD_EXTRACTION_FAIL_REC",
+      "target": "ASGARD_EXTRACTION_FAIL_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_ROYAL_ALERT_REC-ASGARD_ROYAL_ALERT_REC_ADV-37",
+      "source": "ASGARD_ROYAL_ALERT_REC",
+      "target": "ASGARD_ROYAL_ALERT_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-ASGARD_FRIGGA_CONFISCATION_REC-ASGARD_FRIGGA_CONFISCATION_REC_ADV-38",
+      "source": "ASGARD_FRIGGA_CONFISCATION_REC",
+      "target": "ASGARD_FRIGGA_CONFISCATION_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2012 Stark Security & S.H.I.E.L.D.",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_NEBULA_SYNC_REC-MORAG_NEBULA_SYNC_REC_ADV-39",
+      "source": "MORAG_NEBULA_SYNC_REC",
+      "target": "MORAG_NEBULA_SYNC_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2014 Thanos / Sanctuary II",
+      "style": {
+        "stroke": "#c084fc",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_RHODEY_DOWN_REC-MORAG_RHODEY_DOWN_REC_ADV-40",
+      "source": "MORAG_RHODEY_DOWN_REC",
+      "target": "MORAG_RHODEY_DOWN_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2014 Thanos / Sanctuary II",
+      "style": {
+        "stroke": "#ef4444",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-MORAG_POWER_SEAL_BREACH_REC-MORAG_POWER_SEAL_BREACH_REC_ADV-41",
+      "source": "MORAG_POWER_SEAL_BREACH_REC",
+      "target": "MORAG_POWER_SEAL_BREACH_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2014 Thanos / Sanctuary II",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_NATASHA_SACRIFICE_REC-VORMIR_NATASHA_SACRIFICE_REC_ADV-42",
+      "source": "VORMIR_NATASHA_SACRIFICE_REC",
+      "target": "VORMIR_NATASHA_SACRIFICE_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2014 Thanos Orbital Salvo",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_BARTON_SACRIFICE_REC-VORMIR_BARTON_SACRIFICE_REC_ADV-43",
+      "source": "VORMIR_BARTON_SACRIFICE_REC",
+      "target": "VORMIR_BARTON_SACRIFICE_REC_ADV",
+      "animated": true,
+      "label": "Counter: 2014 Thanos & Black Order Incursion",
+      "style": {
+        "stroke": "#00f0ff",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "id": "e-VORMIR_RED_SKULL_REJECT_REC-VORMIR_RED_SKULL_REJECT_REC_ADV-44",
+      "source": "VORMIR_RED_SKULL_REJECT_REC",
+      "target": "VORMIR_RED_SKULL_REJECT_REC_ADV",
+      "animated": true,
+      "label": "Counter: TVA Minutemen Patrol",
+      "style": {
+        "stroke": "#c084fc",
+        "strokeWidth": 2
+      }
+    }
+  ],
+  "summary_statistics": {
+    "total_nodes": 46,
+    "total_terminals": 14,
+    "prime_victories": 10,
+    "pyrrhic_victories": 0,
+    "thanos_snaps": 1,
+    "tva_resets": 3,
+    "stranded_count": 0,
+    "overall_win_rate": 71.4,
+    "average_entropy": 41.6,
+    "average_thanos_awareness": 21.8
+  }
+}
